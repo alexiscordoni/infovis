@@ -5,7 +5,7 @@ Repositorio de la diplomatura en Big Data - ITBA
 
 ### h3
 
-Hola este es un * parrafo *  ** dos asteriscos **. sale negrita
+Hola este es un *parrafo* , **dos asteriscos**. sale negrita
 
 * uno
 * dos
@@ -13,5 +13,5 @@ Hola este es un * parrafo *  ** dos asteriscos **. sale negrita
 
 1. uno
 2. dos
-3.tres
+3. tres
 
